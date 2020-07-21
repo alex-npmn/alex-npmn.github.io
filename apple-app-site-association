@@ -5,6 +5,7 @@
       {
         "appID": "8KLS9QG6WN.ru.leroymerlin.ios",
         "paths": [
+          "NOT /?auth_popup*",
           "NOT /alex",
           "*"
         ]
