@@ -5,7 +5,6 @@
       {
         "appID": "8KLS9QG6WN.ru.leroymerlin.ios",
         "paths": [
-          "alex-npmn.github.io/*",
           "NOT /advice/*",
           "NOT /service/*",
           "NOT /postavshchikam/*",
@@ -24,7 +23,8 @@
           "NOT /company/*",
           "NOT /pravila/*",
           "NOT /podarochnaya-karta/*",
-          "NOT alex-npmn.github.io/*?auth_popup=true*"
+          "NOT alex-npmn.github.io/*?auth_popup=true*",
+          "alex-npmn.github.io/*"
         ]
       }
     ]
