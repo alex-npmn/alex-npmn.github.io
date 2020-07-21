@@ -6,9 +6,9 @@
         "appID": "8KLS9QG6WN.ru.leroymerlin.ios",
         "paths": [
           "NOT /_/*",
-          "/*",
           "NOT /?*",
-          "NOT /_/?*"
+          "NOT /_/?*",
+          "/*"
         ]
       }
     ]
