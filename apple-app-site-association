@@ -5,9 +5,27 @@
       {
         "appID": "8KLS9QG6WN.ru.leroymerlin.ios",
         "paths": [
+          "NOT /advice/*",
+          "NOT /service/*",
+          "NOT /postavshchikam/*",
+          "NOT /faq/*",
+          "NOT /proekty/*",
+          "NOT /dostavka/*",
+          "NOT /offer/*",
+          "NOT /about/*",
+          "NOT /brands/*",
+          "NOT /razvitie-seti/*",
+          "NOT /contacty/*",
+          "NOT /politika-obrabotki-personalnykh-dannykh/*",
+          "NOT /servisnaya-karta/*",
+          "NOT /kak-zakazat/*",
+          "NOT /kak-oplatit/*",
+          "NOT /company/*",
+          "NOT /pravila/*",
+          "NOT /podarochnaya-karta/*",
           "NOT /?auth_popup*",
           "NOT /alex",
-          "*"
+          "/*"
         ]
       }
     ]
