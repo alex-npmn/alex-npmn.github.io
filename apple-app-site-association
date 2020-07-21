@@ -23,7 +23,7 @@
           "NOT /company/*",
           "NOT /pravila/*",
           "NOT /podarochnaya-karta/*",
-          "NOT /?auth_popup*",
+          "NOT /alex-npmn.github.io/?auth_popup=true*",
           "NOT /alex",
           "/*"
         ]
