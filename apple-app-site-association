@@ -23,7 +23,7 @@
           "NOT /company/*",
           "NOT /pravila/*",
           "NOT /podarochnaya-karta/*",
-          "NOT /catalogue/*auth_popup=true*",
+          "NOT /catalogue/*",
           "/*"
         ]
       }
