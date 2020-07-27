@@ -18,7 +18,6 @@
 		      "lk/addresses/",
 		      "lk/",
 		      "shop/*",
-		      NOT "/catalogue/xxx",
 		      "catalogue/*",
 		      "product/*",
 		      "search/*"
