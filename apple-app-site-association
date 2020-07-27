@@ -18,8 +18,8 @@
 		      "lk/addresses/",
 		      "lk/",
 		      "shop/*",
+		      "NOT catalogue/xxl",
 		      "catalogue/*",
-		      " NOT catalogue/xxl",
 		      "product/*",
 		      "search/*"
         ]
