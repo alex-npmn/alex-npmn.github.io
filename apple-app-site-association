@@ -19,7 +19,7 @@
 		      "lk/",
 		      "shop/*",
 		      "catalogue/*",
-		      NOT "catalogue/xxl",
+		      " NOT catalogue/xxl",
 		      "product/*",
 		      "search/*"
         ]
