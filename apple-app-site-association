@@ -5,23 +5,25 @@
       {
         "appID": "8KLS9QG6WN.ru.leroymerlin.ios",
         "paths": [
+		""
         	"shop/",
-		      "politika-obrabotki-personalnykh-dannykh/",
+		"politika-obrabotki-personalnykh-dannykh/",
 	      	"pravila/",
 	      	"service/vozvrat-tovara/",
 	      	"basket/",
 	      	"shopping-list/",
 	      	"catalogue/compare/",
 	      	"lk/purchase_history/",
-		      "lk/info/",
-		      "lk/info/changepass/",
-		      "lk/addresses/",
-		      "lk/",
-		      "shop/*",
-		      "NOT catalogue/xxl",
-		      "catalogue/*",
-		      "product/*",
-		      "search/*"
+		"lk/info/",
+		"lk/info/changepass/",
+		"lk/addresses/",
+		"lk/",
+		"shop/*",
+		"offer/*",
+		"NOT catalogue/kuhni",
+		"catalogue/*",
+		"product/*",
+		"search/*"
         ]
       }
     ]
