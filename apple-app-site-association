@@ -20,7 +20,6 @@
 		"lk/",
 		"shop/*",
 		"offer/*",
-		"NOT catalogue/kuhni",
 		"catalogue/*",
 		"product/*",
 		"search/*"
