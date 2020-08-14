@@ -20,7 +20,8 @@
 		"shop/*",
 		"offer/*",
 		"product/*",
-		"search/*"
+		"search/*",
+		"catalog/*"
         ]
       }
     ]
