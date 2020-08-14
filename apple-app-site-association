@@ -21,7 +21,7 @@
 		"offer/*",
 		"product/*",
 		"search/*",
-		"catalog/*"
+		"catalogue/*"
         ]
       }
     ]
