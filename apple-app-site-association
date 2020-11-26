@@ -5,7 +5,8 @@
       {
         "appID": "8KLS9QG6WN.ru.leroymerlin.ios",
         "paths": [
-		"NOT checkout/*,
+		"NOT checkout/*",
+		"NOT basket/*",
 		"",
         	"shop/",
 		"politika-obrabotki-personalnykh-dannykh/",
