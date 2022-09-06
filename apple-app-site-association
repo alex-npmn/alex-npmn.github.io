@@ -19,12 +19,13 @@
 		"lk/",
 		"shop/*",
 		"offer/*",
-		"product/*",
-		"search/*",
-		"catalogue/*",
-		"uslugi/proektirovanie-i-dizayn/sozdayte-vannuyu-komnatu-svoey-mechty/"
-        ]
-      }
-    ]
+ 		"product/*",
+ 		"search/*",
+ 		"catalogue/*",
+		"basket/*",
+ 		"uslugi/proektirovanie-i-dizayn/sozdayte-vannuyu-komnatu-svoey-mechty/"
+         ]
+       }
+     ]
   }
 }
