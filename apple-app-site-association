@@ -23,7 +23,9 @@
  		"search/*",
  		"catalogue/*",
 		"basket/*",
- 		"uslugi/proektirovanie-i-dizayn/sozdayte-vannuyu-komnatu-svoey-mechty/"
+ 		"uslugi/proektirovanie-i-dizayn/sozdayte-vannuyu-komnatu-svoey-mechty/",
+		"biznes/professionalnym-klientam/",
+		"uslugi/gotovye-resheniya-pod-klyuch/okna-na-zakaz/"
          ]
        }
      ]
